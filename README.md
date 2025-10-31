@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Tiffany 
+
 I recently completed a Data Science and Analytics course from Lux Dev HQ, where I developed a strong foundation in data analysis and visualization. I am proficient in:
 
 - Microsoft Excel
